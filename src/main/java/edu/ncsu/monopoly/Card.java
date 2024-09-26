@@ -7,7 +7,7 @@ public abstract class Card {
     public static final int TYPE_CC = 2;
 //New cambio
     //nuevo cambioooo
-    //nuevo cambio con accion
+    //nuevo cambio con accion, ahora si 
     public abstract String getLabel();
     public abstract void applyAction();
     public abstract int getCardType();
